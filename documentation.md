@@ -6,7 +6,7 @@ The post API is a GraphQL API that allows users to create, read, update, and del
 
 
 ## Before we start:
-- [Postman Request Examples]([https://www.postman.com/altimetry-technologist-21543379/workspace/aws-assignment/collection/13718644-3b95953a-7f36-480a-81b9-1a5be7e07363])
+- [Postman Request Examples](https://www.postman.com/altimetry-technologist-21543379/workspace/aws-assignment/collection/13718644-3b95953a-7f36-480a-81b9-1a5be7e07363)
 
 ---
 
