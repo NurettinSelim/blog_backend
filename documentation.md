@@ -72,7 +72,7 @@ Gets a list of all posts.
 
 #### Request
 
-The request body must be a JSON object containing the `getAllPosts` field.
+The request body must be a JSON object containing the `listPosts` field.
 
 ```json
 {
@@ -115,7 +115,7 @@ Gets a single post by ID.
 
 #### Request
 
-The request body must be a JSON object containing the `getPostById` field and the `id` argument.
+The request body must be a JSON object containing the `getPost` field and the `id` argument.
 
 ```json
 {
@@ -133,7 +133,7 @@ The response is a JSON object containing the `id`, `title`, and `description` fi
 ```json
 {
   "data": {
-    "getPostById": {
+    "getPost": {
       "id": "b83af2be-3a0f-4082-b729-2f12baced173",
       "title": "My New Post",
       "description": "This is the description of my new post."
